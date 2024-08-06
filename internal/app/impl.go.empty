@@ -1,0 +1,9 @@
+package internal
+
+func begin() {
+
+}
+
+func tick() {
+
+}
