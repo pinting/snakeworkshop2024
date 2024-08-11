@@ -1,9 +1,0 @@
-package app
-
-func begin() {
-
-}
-
-func tick() {
-
-}
